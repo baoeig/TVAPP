@@ -97,7 +97,7 @@
 | 戏曲多多                | v9.9.9 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/戏曲多多TV_老版本免费版.apk) | 🟢    | 戏曲多多TV版是一款中老年人娱乐软件。为广大喜爱戏曲的朋友们提供戏曲评书大全、京剧相声小说二人转、经典老电影、热门广场舞等休闲娱乐功能！ |
 | 梨园行戏曲              | v1.0.2      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/4K梨园戏TV高级版1.0.2.apk) | 🟢    | 4k高级版，优质的戏曲播放软件                                 |
 | 七星戏曲                | v1.0        | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/七星戏曲1.0.apk) | 🟢    | 熟悉的box应用风格，七星影城天哥的作品。真·免费无套路！不用充会员，不用看广告，点开就能看全场！ |
-| 饭太硬                  | v9.9.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/飯太硬.apk) | 🟢    | 内置饭太硬本地源版本                                         |
+| 饭太硬                  | v9.9.9      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/飯太硬.apk) | 🔴  | 内置饭太硬本地源版本                                         |
 | 云视听快TV              | v3.9.1.2010 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/云视听快TV_3.9.1.apk) | 🟢    | 快手的TV版，去除更新升级无付费内容的老版本，对比新版只是删除了几个付费的栏目！ |
 | 魔音MORIN               | v3.7.0      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/魔音MORIN-3.7.0去广告激活版.apk) | 🟢    | 音乐播放器、无损音乐下载工具，去广告解锁VIP会员精简版        |
 | 音悦                    | v3.3.1 | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/娱乐应用/音悦3.3.1.apk) | 🟢    | 音乐播放器、无损音乐下载工具，支持自定义音乐源               |
